@@ -1,0 +1,41 @@
+Tank Setup
+Pump Setup
+Nozzle Setup
+Enter Closing Meter Reading
+Enter Cash Collection
+enter Transaction Date
+Staff Name
+
+Closing Tank
+Tank Name
+Physical Closing balance
+Physical Closing Date
+Checked By
+
+
+Nozzle Setup
+Product_id
+Tank_id
+PumpName
+NozzleName
+active
+description
+Nozzleidentifier
+
+Pump Setup
+productid
+pumpname
+pumpidentfier
+tankname
+noofnozzle
+active
+description
+
+TankSetup
+TankName
+TankCapacity
+Location
+active
+tankcalliberation
+
+
