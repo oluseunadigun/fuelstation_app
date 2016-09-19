@@ -1,3 +1,9 @@
+Online and Windows Based
+
+Petrol and CNG Filling Station Management Software helps CNG STATION owners to manage & keep record of the 
+on going activities of the station like gas sale, gas meter, WAPDA meter reading, generator consumption 
+and monthly credit billing and accounts book preparations up to profit/loss and balance sheet.
+
 Tank Setup
 Pump Setup
 Nozzle Setup
@@ -37,5 +43,93 @@ TankCapacity
 Location
 active
 tankcalliberation
+
+
+FEATURES
+
+Know what it does. Just in case.
+
+    Live Nozzle Sales and Printing Management & Information System
+    RFID Based Prepaid and Postpaid Members Sales Management System
+    Purchase Management & Information System
+    Store Inventory Control & Information System
+    Tank Stock Management System
+    Accounts Management & Information System
+    SMS Alerts Integration
+    User Rights & Management Control System
+
+
+Reports (Date wise)
+
+    Purchase Reports
+        Category wise (Fuel, Lubricants, additives)
+        Products wise
+    Sale Report
+        Category wise (Fuel, Lubricants, additives)
+        Product wise
+        Customers wise(Prepaid, Postpaid)
+            Company wise
+            Vehicle wise
+            Vehicle Bill Summary
+            Customer Billing Vs Receipt Summary
+    Stock Report
+        Category wise (Fuel, Lubricants, additives)
+        Product wise
+        Fuel Sale Stock Register
+    Expense Reports
+    Account Ledger
+    Day Book
+    Trial Balance
+        2 Columns
+        6 Columns
+    Profit and loss
+        Item wise Profit & Loss
+    Balance sheet
+
+Accounts Management Software
+
+
+
+Vouchers
+
+    Chart of Accounts
+    Chart of Products
+    Chart of Nozzles
+    Chart of Tank( Dip Chart Voucher)
+    Prepaid and Postpaid Customer Registration Voucher
+    Vehicle Registration Voucher
+    Purchase Voucher (Fuel, Lubricants, Additives)
+    Purchase Return Voucher( Lubricants, additives)
+    Daily Sale Voucher
+        Super & Diesel sale (Nozzle wise)
+        Lubricants Sale
+        Additives Sale
+        Credit Sale
+        Expenses
+        Recovery
+    Dip Reading and Gain/loss Calculation  Voucher
+    Cash Payment Voucher
+    Cash Receipt Voucher
+    Bank Payment Voucher
+    Bank Receipt Voucher
+    Journal Voucher
+
+
+SMS ALERTS
+
+    On Sale Invoice
+    On invoice over due
+    On payment receipt
+    General Announcements and offers to customers
+
+User Rights Management
+
+    User Registration Voucher
+    User Rights Assigning Voucher
+    User Log Report
+
+
+
+
 
 
